@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Home_Services,org.eclipse.launchbar.core.descriptorType.default\:Home_Services (2),org.eclipse.launchbar.core.descriptorType.default\:Home_Services (1),org.eclipse.launchbar.core.descriptorType.default\:Home_Services (3),org.eclipse.launchbar.core.descriptorType.default\:HomeServicesApplication,org.eclipse.launchbar.core.descriptorType.default\:Home_Services (4),org.eclipse.launchbar.core.descriptorType.default\:ASTFrame
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Home_Services/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Home_Services/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
