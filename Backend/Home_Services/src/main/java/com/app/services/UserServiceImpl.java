@@ -34,7 +34,7 @@ public class UserServiceImpl implements IUserService{
 		String subject="Registration Details for Online Home Services ";//+service.getServiceName()+" , order id is : "+order.getId();
 		String to=newUser.getEmail();
 		//String to="kanchan.barwade@gmail.com";
-		String from="onlinehomeservices.2022@gmail.com";
+		String from="BookMyServices.2023@gmail.com";
 		MailUtility.sendEmail(message, subject, to, from);
 		return newUser;
 	}
